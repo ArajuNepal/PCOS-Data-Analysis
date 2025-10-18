@@ -1,0 +1,80 @@
+age,residence_area,job_type,job_physical_activity,stresslevels,sleepduration,sleeprating,sleepTimings,exercisehours,junkfood,smoking,alcohol,sedentaryage,period_startage,periodstatus,timebetweenperiods,periodDuration,pms,MalePattern_you,delayInPeriods,periodstatus_heredity,MalePattern_heredity,PCOS(Yes/No),currentMedications,milkType,milkQuantity,emotionalStatus,exerciseAfterDiagnosis,consumptionOfOrganicFood,bmi,BMI,Image
+28,Urban Area,Working Women,No,4,7,3,10,1,5,No,No,15,Dec-14,No,3,6 - 8 Days,No,No,5,No,A little,Yes,"PCOS/ PCOD, Birth Control",Cow,2,Yes,0,Yes,Overweight,30,data/train/infected\img_0_3982.jpg
+21,Urban Area,Student,No,4,7,4,2,1,5,No,No,14,Dec-14,No (Irregular and Absent Periods),2,6 - 8 Days,Yes,Yes,3,No,Yes,Yes,PCOS/ PCOD,Cow,1,Yes,0,Maybe,Overweight,30,data/train/infected\img_0_8689.jpg
+21,Urban Area,Student,No,3,7,4,2,1,2,No,No,16,14-16,Yes,1,3 - 5 Days,Sometimes,No,2,No,No,No,No,Buffalo,1,No,0,Yes,Normal,25,data/train/notinfected\img_0_6057.jpg
+23,Urban Area,Student,A little,3,6,3,2,1,2,No,No,20,14-16,Yes,1,3 - 5 Days,Yes,No,4,Sometimes,No,No,No,Buffalo,1,Yes,0,Maybe,Underweight,18.5,data/train/notinfected\img_0_6678.jpg
+21,Urban Area,Student,A little,3,5,3,10,1,2,No,No,Continued,Dec-14,Yes,0,3 - 5 Days,Yes,No,0,Sometimes,No,No,No,Buffalo,1,Yes,0,Maybe,Normal,25,data/train/notinfected\img_0_2879.jpg
+23,Urban Area,Student,A little,3,6,3,1,1,2,No,No,20,14-16,Yes,1,3 - 5 Days,No,No,4,Sometimes,No,No,No,Buffalo,1,Yes,0,Maybe,Underweight,18.5,data/train/notinfected\img_0_3463.jpg
+20,Urban Area,Student,No,2,8,4,2,1,0,No,No,Continued,Dec-14,Yes,1,3 - 5 Days,Yes,No,1,No,No,No,No,Buffalo,1,No,0,Yes,Normal,25,data/train/notinfected\img_0_3230.jpg
+22,Urban Area,Student,No,4,6,3,2,0,2,No,No,15,Dec-14,Yes,1,3 - 5 Days,Yes,No,1,Sometimes,No,No,No,Cow,1,Yes,0,Maybe,Underweight,18.5,data/train/notinfected\img_0_1261.jpg
+21,Urban Area,Student,No,1,6,5,1,1,2,No,No,17,Dec-14,Sometimes,1,3 - 5 Days,No,No,3,No,No,Yes,No,Cow,2,No,0,Yes,Underweight,18.5,data/train/infected\img_0_7934.jpg
+20,Urban Area,Student,No,3,7,4,10,1,2,No,No,15,Dec-14,Yes,1,3 - 5 Days,Yes,A little,1,No,No,No,No,Cow,2,No,0,Yes,Normal,25,data/train/notinfected\img_0_7712.jpg
+21,Urban Area,Student,No,3,7,3,2,1,5,No,No,19,14-16,Yes,1,3 - 5 Days,Yes,No,0,No,No,No,No,Cow,0.5,No,0,No,Normal,25,data/train/notinfected\img_0_2912.jpg
+20,Semi-Urban Area,Student,No,1,7,3,1,1,5,No,No,15,Dec-14,Yes,1,3 - 5 Days,Yes,No,1,No,No,No,No,Cow,1,Yes,0,Maybe,Normal,25,data/train/notinfected\img_0_7228.jpg
+22,Urban Area,Student,No,4,7,3,1,1,5,No,No,16,14-16,Yes,0,3 - 5 Days,Yes,A little,0,No,No,No,No,Buffalo,2,No,0,Yes,Obese,,data/train/notinfected\img_0_846.jpg
+51,Urban Area,Housewife,No,1,8,3,2,1,2,No,No,18,Dec-14,Yes,0,3 - 5 Days,Yes,No,0,No,No,No,No,Cow,0.5,No,0,No,Obese,,data/train/notinfected\img_0_4664.jpg
+21,Semi-Urban Area,Student,No,2,7,4,1,1,2,No,No,15,10-Dec,20,1,3 - 5 Days,Sometimes,A little,2,No,No,Yes,No,Buffalo,0.5,No,0,Yes,Normal,25,data/train/infected\img_0_4458.jpg
+21,Urban Area,Working Women,No,3,7,4,1,1,5,No,No,Continued,14-16,Yes,0,3 - 5 Days,Yes,A little,0,No,No,No,No,Cow,3,No,0,No,Normal,25,data/train/notinfected\img_0_8866.jpg
+21,Urban Area,Student,No,4,7,3,1,1,5,No,No,Continued,14-16,Yes,1,6 - 8 Days,Yes,No,0.5,No,No,No,No,Buffalo,1,No,0,Maybe,Underweight,18.5,data/train/notinfected\img_0_4036.jpg
+22,Urban Area,Student,No,1,8,5,1,0,2,No,No,No,Dec-14,Yes,1,3 - 5 Days,Yes,Yes,1,No,No,No,No,Cow,250,No,0,Maybe,Normal,25,data/train/notinfected\img_0_2803.jpg
+21,Urban Area,Student,A little,4,7,4,2,0,5,No,No,13,10-Dec,No (Irregular and Absent Periods),4,3 - 5 Days,Sometimes,No,5,Sometimes,No,Yes,PCOS/ PCOD,Cow,1,Yes,0,No,Obese,,data/train/infected\img_0_9054.jpg
+21,Urban Area,Student,No,4,8,4,2,1,5,No,No,12,Dec-14,Sometimes,1,6 - 8 Days,Sometimes,A little,1,No,No,Yes,No,Buffalo,1,No,0,Yes,Obese,,data/train/infected\img_0_3614.jpg
+16,Urban Area,Student,No,3,6,2,2,0,5,No,No,14,Dec-14,Yes,0,3 - 5 Days,No,No,6,No,No,No,No,Cow,1,Yes,0,Maybe,Normal,25,data/train/notinfected\img_0_7460.jpg
+21,Urban Area,Working Women,No,4,7,4,1,1,2,No,No,15,10-Dec,Yes,1,3 - 5 Days,Sometimes,No,2,No,No,No,No,Buffalo,1,Yes,0,Maybe,Overweight,30,data/train/notinfected\img_0_7121.jpg
+28,Semi-Urban Area,Working Women,No,3,7,3,2,1,2,No,Maybe,15,Dec-14,Sometimes,1,3 - 5 Days,Sometimes,No,2,No,No,No,No,Buffalo,2,Yes,0,Maybe,Overweight,30,data/train/notinfected\img_0_5448.jpg
+41,Urban Area,Working Women,No,4,7,3,2,1,2,No,No,Continued,10-Dec,Sometimes,1,3 - 5 Days,No,No,2,No,No,No,Thyronorm,Buffalo,1,Yes,0,Maybe,Normal,25,data/train/notinfected\img_0_5412.jpg
+28,Rural Area,Working Women,A little,2,6,3,2,0,2,No,No,18,Dec-14,Sometimes,1,3 - 5 Days,Yes,A little,2,Sometimes,No,No,No,Buffalo,2,Yes,0,Maybe,Overweight,30,data/train/notinfected\img_0_3602.jpg
+21,Urban Area,Student,Yes,4,6,3,2,0,5,No,No,14,14-16,Yes,0,6 - 8 Days,Yes,Yes,1,No,No,No,No,Cow,0.5,Yes,0,No,Underweight,18.5,data/train/notinfected\img_0_2326.jpg
+21,Urban Area,Student,A little,3,7,4,1,1,0,No,No,15,10-Dec,Sometimes,1,3 - 5 Days,Sometimes,No,3,No,Yes,Yes,No,Buffalo,2,No,0,No,Overweight,30,data/train/infected\img_0_6498.jpg
+21,Urban Area,Student,No,3,8,4,1,1,0,No,No,15,Dec-14,Yes,1,3 - 5 Days,Yes,No,0,No,No,No,No,Cow,0,No,0,Maybe,Normal,25,data/train/notinfected\img_0_4813.jpg
+20,Urban Area,Student,No,3,8,5,2,1,2,No,No,16,10-Dec,Yes,1,3 - 5 Days,Sometimes,No,1,No,No,No,No,Cow,1,No,0,Maybe,Underweight,18.5,data/train/notinfected\img3.jpg
+21,Urban Area,Student,A little,4,7,4,2,1,5,No,No,Continued,Dec-14,Yes,0,3 - 5 Days,Yes,A little,1,Sometimes,A little,No,No,Buffalo,2,Yes,0,No,Obese,,data/train/notinfected\img_0_2571.jpg
+21,Urban Area,Student,A little,3,8,4,1,1,5,No,No,16,Dec-14,Yes,1,6 - 8 Days,Sometimes,No,2,No,No,No,No,Cow,1,Yes,0,No,Underweight,18.5,data/train/notinfected\img_0_5011.jpg
+22,Urban Area,Student,No,2,7,4,1,1,2,No,No,Continued,10-Dec,Sometimes,1,3 - 5 Days,Yes,No,2,Sometimes,No,No,No,Cow,1,No,0,Maybe,Normal,25,data/train/notinfected\img_0_1147.jpg
+20,Urban Area,Student,No,1,8,4,1,1,0,No,No,15,10-Dec,Yes,1,3 - 5 Days,Sometimes,Yes,0.5,No,Yes,No,No,Cow,1,No,0,Maybe,Normal,25,data/train/notinfected\img_0_9391.jpg
+22,Urban Area,Student,No,2,8,4,2,1,0,No,No,Continued,Dec-14,Yes,1,3 - 5 Days,Yes,No,0,No,No,No,Thyronorm,Cow,0,Yes,0,No,Normal,25,data/train/notinfected\img_0_1550.jpg
+21,Urban Area,Student,No,3,6,4,10,1,2,No,No,20,Dec-14,Yes,1,3 - 5 Days,No,No,1.5,No,No,No,No,Buffalo,1,No,0,Maybe,Overweight,30,data/train/notinfected\img_0_9832.jpg
+22,Urban Area,Student,No,3,7,4,1,0,2,No,No,16,10-Dec,Yes,1,3 - 5 Days,No,No,0,No,No,No,No,Buffalo,2,Yes,0,Yes,Obese,,data/train/notinfected\img_0_7713.jpg
+21,Urban Area,Student,A little,4,6,3,2,1,5,No,No,17,Dec-14,No (Irregular and Absent Periods),2,3 - 5 Days,Yes,Yes,5,No,No,Yes,PCOS/ PCOD,Cow,1,Yes,0,Yes,Normal,25,data/train/infected\img_0_2968.jpg
+28,Urban Area,Working Women,A little,3,6,3,1,1,2,No,No,16,10-Dec,Yes,1,3 - 5 Days,No,No,1,No,No,No,No,Cow,1,No,0,No,Overweight,30,data/train/notinfected\img_0_6176.jpg
+47,Urban Area,Housewife,Yes,2,6,3,2,1,2,No,No,Continued,10-Dec,Yes,1,3 - 5 Days,No,A little,2,No,A little,No,No,Buffalo,1,No,0,No,Overweight,30,data/train/notinfected\img_0_8424.jpg
+22,Semi-Urban Area,Student,No,3,7,4,2,1,5,No,No,15,Dec-14,Sometimes,1,3 - 5 Days,Sometimes,No,1.5,No,No,Yes,"PCOS/ PCOD, Thyronorm",Buffalo,1,No,0,No,Obese,,data/train/infected\img_0_5784.jpg
+22,Urban Area,Student,A little,2,7,3,10,1,2,No,No,15,10-Dec,Yes,1,3 - 5 Days,Yes,A little,1.5,No,No,No,No,Cow,1,No,0,Maybe,Overweight,30,data/train/notinfected\img_0_4620.jpg
+21,Urban Area,Student,No,3,7,3,2,1,2,No,No,14,Dec-14,Sometimes,1,3 - 5 Days,Yes,No,2,Yes,No,Yes,No,Buffalo,2,Yes,0,Yes,Overweight,30,data/train/infected\img_0_9159.jpg
+22,Urban Area,Student,A little,4,6,4,2,1,0,No,No,12,Dec-14,No (Irregular and Absent Periods),2,6 - 8 Days,No,No,6,No,No,Yes,PCOS/ PCOD,Cow,1,Yes,0,Yes,Overweight,30,data/train/infected\img_0_2130.jpg
+22,Urban Area,Student,A little,4,8,5,10,1,2,No,No,10,Dec-14,Yes,1,3 - 5 Days,Sometimes,No,0,No,No,No,No,Buffalo,2,Yes,0,Maybe,Normal,25,data/train/notinfected\img_0_1826.jpg
+22,Semi-Urban Area,Student,Yes,4,7,4,10,1,2,No,No,Continued,10-Dec,Yes,0,3 - 5 Days,Sometimes,No,0,No,No,No,None,Cow,1,Yes,0,Maybe,Overweight,30,data/train/notinfected\img_0_47.jpg
+33,Urban Area,Working Women,No,3,7,5,10,0,2,No,No,No,14-16,Yes,3,3 - 5 Days,Yes,No,0,No,No,No,No,Cow,3,Yes,0,No,Obese,,data/train/notinfected\img_0_747.jpg
+20,Urban Area,Student,No,3,7,3,2,1,0,No,No,16,Dec-14,Yes,1,3 - 5 Days,Yes,A little,3,Yes,No,No,No,Buffalo,1,No,0,No,Underweight,18.5,data/train/notinfected\img_0_2347.jpg
+21,Semi-Urban Area,Student,No,3,6,3,2,0,0,No,No,16,10-Dec,Yes,1,3 - 5 Days,Yes,No,0,No,No,No,No,Cow,0,Yes,0,Maybe,Overweight,30,data/train/notinfected\img_0_5150.jpg
+21,Urban Area,Student,No,5,7,5,2,0,0,No,No,No,Dec-14,Yes,0,3 - 5 Days,No,Yes,1.2,No,Yes,No,No,Cow,1,Yes,0,No,Normal,25,data/train/notinfected\img_0_326.jpg
+47,Urban Area,Housewife,A little,4,7,4,2,1,0,No,No,12,14-16,Yes,0,3 - 5 Days,Yes,No,2,No,No,No,No,Cow,1,Yes,0,Maybe,Overweight,30,data/train/notinfected\img_0_8220.jpg
+21,Urban Area,Student,A little,4,8,4,1,1,2,No,No,14,Dec-14,Yes,1,3 - 5 Days,Sometimes,No,0,No,A little,No,No,Cow,1,Yes,0,Maybe,Obese,,data/train/notinfected\img_0_4904.jpg
+22,Urban Area,Working Women,No,3,9,5,2,0,2,No,No,16,10-Dec,Yes,1,Less than 3 Days,Yes,No,0,No,No,No,"No, None",Don't consume any,0,Yes,0,Maybe,Underweight,18.5,data/train/notinfected\img_0_8561.jpg
+24,Urban Area,Working Women,No,3,7,4,2,1,5,No,No,20,Dec-14,Yes,1,3 - 5 Days,No,No,7,No,No,No,None,Cow,2,No,0,No,Normal,25,data/train/notinfected\img_0_1994.jpg
+22,Urban Area,Student,A little,4,7,3,1,0,2,No,No,14,Dec-14,No (Irregular and Absent Periods),4,3 - 5 Days,Yes,Yes,4,Sometimes,No,Yes,Birth Control,Buffalo,1,Yes,0,Maybe,Normal,25,data/train/infected\img_0_1903.jpg
+22,Urban Area,Student,No,3,7,4,2,1,2,No,No,18,Dec-14,Sometimes,1,6 - 8 Days,Yes,No,1.5,No,A little,No,No,Cow,1,No,0,No,Obese,,data/train/notinfected\img_0_6005.jpg
+26,Urban Area,Housewife,A little,3,7,4,2,1,2,No,No,25,Dec-14,Yes,1,3 - 5 Days,Yes,No,0,No,No,No,No,Buffalo,1,No,0,Maybe,Overweight,30,data/train/notinfected\img_0_7969.jpg
+22,Urban Area,Not Working,No,4,7,3,2,1,0,No,No,15,Dec-14,Yes,1,Less than 3 Days,Yes,A little,2,No,No,No,No,Cow,1,Yes,0,No,Overweight,30,data/train/notinfected\img_0_5115.jpg
+23,Urban Area,Not Working,No,4,6,3,2,1,5,No,No,19,10-Dec,Sometimes,1,Less than 3 Days,Yes,Yes,2,Sometimes,A little,Yes,No,Buffalo,1,Yes,0,Maybe,Overweight,30,data/train/infected\img_0_1142.jpg
+24,Urban Area,Student,No,4,8,5,2,0,2,No,No,14,10-Dec,Yes,0,3 - 5 Days,Sometimes,No,0,No,No,No,"No, None",Buffalo,1,No,0,Yes,Normal,25,data/train/notinfected\img_0_3995.jpg
+22,Urban Area,Working Women,No,4,6,3,2,1,0,No,No,22,Dec-14,Yes,1,3 - 5 Days,Yes,A little,1,No,No,No,None,Cow,1,Yes,0,Yes,Overweight,30,data/train/notinfected\img_0_330.jpg
+22,Semi-Urban Area,Student,A little,4,7,4,2,1,2,No,No,Continued,Dec-14,Yes,0,3 - 5 Days,Yes,No,0,No,No,No,None,Buffalo,1,Yes,0,Yes,Normal,25,data/train/notinfected\img_0_4466.jpg
+22,Urban Area,Working Women,No,3,7,3,2,1,2,No,No,19,10-Dec,Yes,1,3 - 5 Days,Yes,No,2,No,No,Yes,No,Buffalo,1,No,0,Yes,Normal,25,data/train/infected\img_0_3678.jpg
+22,Urban Area,Working Women,No,4,6,3,2,0,2,No,No,17,Dec-14,Yes,0,Less than 3 Days,Sometimes,A little,0,No,A little,No,None,Cow,0,Yes,0,No,Obese,,data/train/notinfected\img_0_7257.jpg
+22,Urban Area,Housewife,A little,3,7,3,2,1,2,No,No,18,Dec-14,Yes,1,6 - 8 Days,Sometimes,A little,1,No,No,No,No,Cow,1,No,0,No,Normal,25,data/train/notinfected\img_0_4021.jpg
+23,Urban Area,Student,No,3,7,4,2,1,2,No,No,18,Dec-14,Yes,1,3 - 5 Days,Sometimes,No,0,Sometimes,No,No,None,Buffalo,2,Yes,0,No,Underweight,18.5,data/train/notinfected\img_0_6651.jpg
+49,Urban Area,Working Women,Yes,1,6,4,2,1,0,No,No,Continued,14-16,Yes,1,3 - 5 Days,No,No,2,No,No,No,No,Cow,0,No,0,Maybe,Overweight,30,data/train/notinfected\img_0_5759.jpg
+20,Semi-Urban Area,Student,A little,4,7,4,1,1,2,No,No,17,Dec-14,Yes,1,3 - 5 Days,Sometimes,No,1,No,No,No,No,Cow,1,No,0,Yes,Overweight,30,data/train/notinfected\img_0_1224.jpg
+21,Urban Area,Student,A little,4,9,3,2,1,2,No,No,16,Dec-14,Yes,1,6 - 8 Days,Yes,No,0,No,No,No,No,Buffalo,1,Yes,0,Maybe,Underweight,18.5,data/train/notinfected\img_0_909.jpg
+19,Semi-Urban Area,Student,No,4,8,4,1,1,2,No,Yes,14,Dec-14,No (Irregular and Absent Periods),1,3 - 5 Days,Yes,A little,2.5,Sometimes,No,No,No,Buffalo,2,Yes,0,Maybe,Overweight,30,data/train/notinfected\img_0_7426.jpg
+22,Semi-Urban Area,Student,No,3,6,5,2,1,5,No,No,18,Dec-14,Yes,1,3 - 5 Days,Sometimes,No,15,No,No,No,None,Cow,300,No,0,Yes,Underweight,18.5,data/train/notinfected\img_0_7307.jpg
+21,Urban Area,Student,No,4,8,5,1,1,5,No,No,18,Dec-14,Sometimes,1,3 - 5 Days,Sometimes,No,2,Yes,No,No,No,Buffalo,1.5,Yes,0,No,Overweight,30,data/train/notinfected\img_0_8931.jpg
+22,Urban Area,Student,Yes,2,8,4,1,1,2,No,Yes,Continued,Dec-14,Yes,0,3 - 5 Days,Sometimes,No,1,No,No,No,None,Buffalo,1,Yes,0,No,Normal,25,data/train/notinfected\img_0_2058.jpg
+24,Urban Area,Student,Yes,4,7,3,1,1,2,Yes,No,14,14-16,Yes,1,3 - 5 Days,Yes,A little,2,Sometimes,No,No,None,Cow,1,Yes,0,No,Normal,25,data/train/notinfected\img_0_6651.jpg
+21,Urban Area,Student,No,5,6,3,2,0,5,No,No,17,Dec-14,Yes,0,3 - 5 Days,Yes,Yes,0,No,No,Yes,No,Cow,2,Yes,0,Yes,Normal,25,data/train/infected\img_0_5836.jpg
+22,Semi-Urban Area,Student,Yes,4,5,3,2,1,5,No,No,17,Dec-14,No (Irregular and Absent Periods),1,3 - 5 Days,Yes,A little,1,No,No,Yes,No,Cow,5,Yes,0,Maybe,Normal,25,data/train/infected\img_0_2908.jpg
+22,Urban Area,Student,No,3,6,3,2,1,2,No,Maybe,Continued,Dec-14,Sometimes,0,3 - 5 Days,Yes,A little,1,No,No,No,Blood Pressure,Cow,1,No,0,Yes,Normal,25,data/train/notinfected\img_0_56.jpg
+22,Urban Area,Student,Yes,4,7,5,1,1,2,No,No,Continued,Dec-14,Sometimes,1,9 Days +,No,No,1.5,Sometimes,No,No,No,Cow,1,Yes,0,Maybe,Obese,,data/train/notinfected\img_0_9812.jpg
+47,Urban Area,Working Women,No,2,8,3,2,1,0,No,No,12,14-16,Yes,1,3 - 5 Days,Yes,No,1,No,No,No,No,Buffalo,1,No,0,Maybe,Normal,25,data/train/notinfected\img_0_3484.jpg
+47,Urban Area,Housewife,No,1,8,1,2,1,0,No,No,12,Dec-14,Yes,1,3 - 5 Days,Yes,No,1,No,No,No,No,Buffalo,1,No,0,Maybe,Normal,25,data/train/notinfected\img_0_2349.jpg
